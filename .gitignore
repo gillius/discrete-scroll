@@ -18,3 +18,5 @@ xcuserdata/
 *.ipa
 *.dSYM.zip
 *.dSYM
+.DS_Store
+DiscreteScroll/DiscreteScroll
